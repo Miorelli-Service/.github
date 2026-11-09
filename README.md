@@ -1,1 +1,0 @@
-# Repository per Miorelli Service
